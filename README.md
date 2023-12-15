@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I'm currently taking a course in neural network design.
 <!--
 **spirit9100/spirit9100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
