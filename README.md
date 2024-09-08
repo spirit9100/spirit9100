@@ -1,16 +1,12 @@
-### Hi there 👋
-- 🌱 I'm currently taking a course in neural network design.
-<!--
-**spirit9100/spirit9100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there! I'm Dmitry Goryachev, a Data Science Engineer with a passion for solving complex problems using cutting-edge machine learning and deep learning technologies.
 
-Here are some ideas to get you started:
+🛠️ Skills & Expertise:
+- Programming: Python (ML/DL)
+- Libraries/Tools: Matplotlib, NumPy, SciPy, Pandas, SkLearn, TensorFlow, PyTorch, OpenCV, Keras
+- Databases: MySQL, SQLite
+- DevOps: Git, Docker, CI/CD pipelines
+- Hardware: CPU/GPU computing
+  
+I have experience working on full-cycle web development projects, improving mobile versions, and reducing bounce rates with data-driven optimizations. I also have a solid background in neural networks and AI, allowing me to bring innovative solutions to the table.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
